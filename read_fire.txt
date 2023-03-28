@@ -1,0 +1,31 @@
+app.scss
+
+lenh 
+npm i --save sass
+
+
+rendering a component:
+
+<> </> or React.Fragment: dùng cho react hiểu xuất ra 2 thẻ div trả về một khối
+
+CTCP chung khoan ssi 
+bang gia Lightnign
+
+font-size: calc(10px+2vmin); chinh kich thuoc chieu cao
+
+thư viện thông báo hay
+npm toastify 
+react-toastify
+lệnh cài:
+npm install --save-exact react-toastify@8.0.2
+
+Redirect(chuyển hướng giữa các trang)
+lệnh cài react-router-dom (điều hướng trang)
+npm install --save-exact react-router-dom@5.3.0
+tìm kiếm với react router dom
+
+thư viện:
+Using axios(gọi được API)
+Lệnh cài: 
+npm install --save-exact axios@0.21.4
+
