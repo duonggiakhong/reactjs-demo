@@ -1,3 +1,6 @@
+iboard.ssi.com.vn/bang-gia/hrx30
+plus24.mbs.com.vn
+
 app.scss
 
 lenh 
@@ -28,4 +31,22 @@ thư viện:
 Using axios(gọi được API)
 Lệnh cài: 
 npm install --save-exact axios@0.21.4
+
+react Redux là gì: là thư viện (đứng ngoài)
+redux thay đổi thì tất cả j liên kết đều bị chuyển theo 
+vd: chuyển đổi ngôn ngữ
+Tài liệu: 
+redux.js.org
+
+Cài Đặt thư viện:(react redux & huth)
+npm install --save-exact redux@4.1.1 
+&&
+react-redux@7.2.5
+
+
+mapStateToProps
+
+
+redux devtools-extension
+
 
