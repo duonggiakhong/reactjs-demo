@@ -2,6 +2,9 @@ iboard.ssi.com.vn/bang-gia/hrx30
 plus24.mbs.com.vn
 
 
+install firebase
+npm install firebase
+
 vs 14.17.0
 nvm 1.1.7
 https://github.com/coreybutler/nvm-windows/releases
